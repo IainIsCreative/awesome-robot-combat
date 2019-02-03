@@ -22,10 +22,12 @@
       - [U.S. Antweights](#us-antweights)
       - [Hobbyweights](#hobbyweights)
       - [Featherweights](#featherweights)
-      - [Middleweights](#middleweights)
       - [Heavyweights](#heavyweights)
     - [Hacks and Tips](#hacks-and-tips)
   - [Templates and Designs](#templates-and-designs)
+  - [Software](#software)
+    - [Radio Control Programming](#radio-control-programming)
+    - [ESC Programming and Flashing](#esc-programming-and-flashing)
 - [Parts Suppliers](#parts-suppliers)
   - [General and Hobby Stores](#general-and-hobby-stores)
   - [U.S and Canada Suppliers](#us-and-canada-suppliers)
@@ -47,6 +49,7 @@ Events that you can take part in and TV shows that showcase robot combat, based 
 - [Bugglebots](https://www.bugglebots.com/) — An online video beetleweight tournament series.
 - [Robodojo](https://www.facebook.com/pg/RobodojoUK/) — A robot combat event and club in the north of England.
 - [Bristol Bot Builders](https://bristolbotbuilders.com/) — A robot combat event organisation in Bristol, England.
+- [Extreme Robots](http://www.extremerobots.co.uk) — U.K. robot combat live event featuring heavyweights and featherweights, including heavyweight spinners.
 
 ### China Events
 - [King Of Bots](https://www.facebook.com/KOBCHINA/) — The first Chinese robot combat TV show with fighting combatants from around the world.
@@ -63,12 +66,15 @@ A number of communities and groups for people to participate in and learn from.
 - [SCRC Kilobots Facebook Group](https://www.facebook.com/groups/Kilobots/) — The Facebook Group for the SCRC, based in Saskatoon.
 - [Sparc Tools Forum](http://sparc.tools/forum/index.php) — The Sparc Tools forum boards, part of the [Standardised Procedures for the Advancement of Robot Combat (SPARC)](http://sparc.tools/).
 - [Bristol Bot Builders Facebook Group](https://www.facebook.com/groups/BristolBotBuilders/) — The Bristol Bot Builders Facebook group based in Bristol, England.
+- [Robot Wars 101](http://www.robotwars101.org/) — A hub for robot combat, with information for building antweights and a forum board for discussing fighting robots.
+- [Arizona Robot Combat (ARC)](https://www.facebook.com/groups/ArizonaRoboticCombat/) — A Facebook Group for robot combtatants and organisers in the state of Arizona.
+- [Michigan Combat Robotics](https://www.facebook.com/groups/1776490859290067/) — A Facebook Group for robot builders in the state of Michigan.
 
 ## Books
 
 Recommended books for learning about and how to build fighting robots.
 
-- [Riobotz Combat Robot Tutorial](https://www.amazon.com/RioBotz-Combat-Tutorial-Antonio-Meggiolaro/dp/1448697050/ref=sr_1_1?ie=UTF8&qid=1549213075&sr=8-1&keywords=riobotz) — a robot combat build manual by Team Riobotz. [Also available in PDF format.]()
+- [Riobotz Combat Robot Tutorial](https://www.amazon.com/RioBotz-Combat-Tutorial-Antonio-Meggiolaro/dp/1448697050/ref=sr_1_1?ie=UTF8&qid=1549213075&sr=8-1&keywords=riobotz) — a robot combat build manual by Team Riobotz. [Also available in PDF format.](https://www.riobotz.com/riobotz-combot-tutorial)
 - [Robot Wars: Build Your Own Robot](https://www.amazon.co.uk/Robot-Wars-Manual-Haynes-Manuals/dp/1785211862/ref=sr_1_6?ie=UTF8&qid=1549213153&sr=8-6&keywords=robot+wars) — A manual by James and Grant Cooper going over robot combat design and build, as well as full lessons on building various fighting robots.
 
 ## Robot Combat Inspiration
@@ -83,6 +89,7 @@ Showcases and build diaries of robots, as well as fighting robots to be inspired
 ### Build Diaries
 
 - [Building a Featherweight Crab Combat Robot In A Week](https://www.youtube.com/watch?v=9dI0gqCDswM) — A video build diary of Joe Brown's featherweight fighting robot, Crabsolutely Clawful.
+- [Inside a Bugglebot — FLICK Build Diary/Battle Report](https://www.youtube.com/watch?v=vQsG1u2L9Ro) — A build diary covering the design and process of Flick, a beetleweight drum spinner by Tom Lloyd.
 
 ## Resources
 
@@ -116,6 +123,7 @@ The smallest weight category, at 150g. Suitable for beginners in robot combat.
 1lb fighting robots, the U.S. catergory of antweight, heavier than U.K. antweights.
 
 - [One Pound Fighting Robot, Algos](https://www.instructables.com/id/One-Pound-Fighting-Robot-Algos/) — An instructable going over the build of his U.S. antweight spinner, Algos.
+- [Sgt. Cuddles Antweight Combat Robot Build](https://www.youtube.com/watch?v=86EJ05kBksA&list=PL0zMZkIMIyC9SBFDc8SqcasGF3EYRpPWB) — The process of building Sgt. Cuddles, a 1lb antweight drum spinner by Robert Cowan.
 
 ##### Beetleweights
 
@@ -138,6 +146,7 @@ A step up from beetleweights and below the featherweights, hobbyweights are the 
 
 - [30lb Fighting Robot — Nyx](https://www.instructables.com/id/30lb-Fighting-Robot/) — An instructable covering the build process of Nyx, a featherweight combat robot by Mike Jeffries.
 - [Phoenix — 30lb Combat Robot](https://www.instructables.com/id/Phoenix-30-lb-Combat-Robot/) — An overview of the build for the pneumatically-powered featherweight Phoenix by Alex Horne.
+- [Crippling Depression](https://www.youtube.com/watch?v=FR0XBRxbn1A&list=PL0zMZkIMIyC-x5w-RsjeS2NQC4jmUVkYP) — A video playlist of the design, build, and outcome of Robert Cowan's featherweight robot, Crippling Depression.
 
 ##### Heavyweights
 
@@ -158,6 +167,23 @@ Useful tidbits and pointers you can use when building a fighting robot.
 Ready-made designs and components you can download to use for building a fighting robot.
 
 - [Saw Loser](https://gitlab.com/alexmordue/saw-loser) — An open source design, with drawings and design files for Alex Mordue's beetleweight robot, Saw Loser.
+
+### Software
+
+Resources for necessary software to program robot components and electronics.
+
+#### Radio Control Software
+
+Software that can be used to program various radio transmitters over USB.
+
+- [T6Config](http://www.rcyachts.com/KitInfo/T6Confg/T6Config.htm) — Radio Control software on PC for programming T6A Radio Transmitters.
+- [Turborix](http://www.zenoshrdlu.com/turborix/) — Radio Control programming on macOS for T6A Radio Transmitters.
+
+#### ESC Programming and Flashing
+
+Applications that can be used to program Speed Controllers, using different software configurations, over USB.
+
+- [RapidFlash](https://chrome.google.com/webstore/detail/rapidflash/gehadojofkekobiohnefkabgimeniglh?hl=en) — A Google Chrome App for flashing and programming ESCs using SimonK Firmware.
 
 ## Parts Suppliers
 
