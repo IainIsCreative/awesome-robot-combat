@@ -12,8 +12,15 @@
   - [U.S. and Canada Events](#us-and-canada-events)
   - [U.K. Events](#uk-events)
   - [China Events](#china-events)
+  - [Brazil Events](#brazil-events)
+  - [Australia Events](#australia-events)
 - [Communities](#communities)
 - [Books](#books)
+- [Robot Combat Inspiration](#robot-combat-inspiration)
+  - [Blog Posts](#blog-posts)
+  - [Build Diaries](#build-diaries)
+- [Robot Combat Media](#robot-combat-media)
+  - [Podcasts](#podcasts)
 - [Resources](#resources)
   - [Learning and Building](learning-and-building)
     - [Robot Combat Basics](#robot-combat-basics)
@@ -32,6 +39,7 @@
   - [General and Hobby Stores](#general-and-hobby-stores)
   - [U.S and Canada Suppliers](#us-and-canada-suppliers)
   - [U.K. Suppliers](#uk-suppliers)
+  - [Brazil Suppliers](#brazil-suppliers)
 
 ## Events and Shows
 
@@ -54,6 +62,14 @@ Events that you can take part in and TV shows that showcase robot combat, based 
 ### China Events
 - [King Of Bots](https://www.facebook.com/KOBCHINA/) — The first Chinese robot combat TV show with fighting combatants from around the world.
 
+### Brazil Events
+
+- [RoboCore](https://www.robocore.net/eventos) — Brazilian robot fighting events of various weight categories.
+
+### Australia Events
+
+- [RoboWars Australia](http://www.robowars.com.au/) — Robot combat live event in Australia.
+
 ## Communities and Organisations
 
 A number of communities and groups for people to participate in and learn from.
@@ -62,13 +78,16 @@ A number of communities and groups for people to participate in and learn from.
 - [Combat Robotics](https://www.facebook.com/groups/RobotCombat/) — A Facebook Group consisting of robot combat participants and enthusiasts from all around the world.
 - [Unofficial Robot Wars](https://www.facebook.com/groups/UnofficialRobotWars/) — The Unofficial Robot Wars Facebook group, consisting of robot combatants from around the world.
 - [Beetleweight Robot Combat Discussion](https://www.facebook.com/groups/1463505713957474/) — A Facebook group consisting of Beetleweight showcases and discussion.
-- [Ant Chat](https://www.facebook.com/groups/167931026734910/) — A Facebook group dedicated to discussion and showcasing of Antweights.
+- [Antweight Robot Combat](https://www.facebook.com/groups/167931026734910/) — A Facebook group dedicated to discussion and showcasing of Antweights.
+- [Out Of The Arena Discord](https://discord.me/outofthearena) — A Discord server dedicated to robot combat discussion, including voice chat and help for building robots.
 - [SCRC Kilobots Facebook Group](https://www.facebook.com/groups/Kilobots/) — The Facebook Group for the SCRC, based in Saskatoon.
 - [Sparc Tools Forum](http://sparc.tools/forum/index.php) — The Sparc Tools forum boards, part of the [Standardised Procedures for the Advancement of Robot Combat (SPARC)](http://sparc.tools/).
 - [Bristol Bot Builders Facebook Group](https://www.facebook.com/groups/BristolBotBuilders/) — The Bristol Bot Builders Facebook group based in Bristol, England.
 - [Robot Wars 101](http://www.robotwars101.org/) — A hub for robot combat, with information for building antweights and a forum board for discussing fighting robots.
-- [Arizona Robot Combat (ARC)](https://www.facebook.com/groups/ArizonaRoboticCombat/) — A Facebook Group for robot combtatants and organisers in the state of Arizona.
+- [Arizona Robot Combat](https://www.facebook.com/groups/ArizonaRoboticCombat/) — A Facebook Group for robot combtatants and organisers in the state of Arizona.
 - [Michigan Combat Robotics](https://www.facebook.com/groups/1776490859290067/) — A Facebook Group for robot builders in the state of Michigan.
+- [Adelaide Robot Combat](https://www.facebook.com/groups/AdelaideRobotCombat/) — Robot Combat community and meetups in Adelaide, Australia
+
 
 ## Books
 
@@ -91,6 +110,16 @@ Showcases and build diaries of robots, as well as fighting robots to be inspired
 - [Building a Featherweight Crab Combat Robot In A Week](https://www.youtube.com/watch?v=9dI0gqCDswM) — A video build diary of Joe Brown's featherweight fighting robot, Crabsolutely Clawful.
 - [Inside a Bugglebot — FLICK Build Diary/Battle Report](https://www.youtube.com/watch?v=vQsG1u2L9Ro) — A build diary covering the design and process of Flick, a beetleweight drum spinner by Tom Lloyd.
 
+## Robot Combat Media
+
+Links to various robot combat media, including podcasts and streaming channels.
+
+### Podcasts
+
+- [Inside The Bot](https://soundcloud.com/insidethebot) — A robot combat podcast hosted by Gabriel Stroud and Will Cedric.
+- [Spinnerproof](https://www.spinnerproof.com/) — A podcast about combat robotics by Ryan Bratley and Sam Hutchins.
+- [Activate! The Robot Wars Podcast](https://soundcloud.com/user-899755637) — A retrospective review podcast of Robot Wars by Rob E. Harmlessly and Benji.
+
 ## Resources
 
 Links for learning the basics of robot combat, how to build fighting robots, as well as tools and designs people can use to build their own. **Note: some links may require joining a group or community to view the link.**
@@ -101,7 +130,7 @@ Useful resources to learn the basics of robot combat, as well as tutorials on bu
 
 #### Robot Combat Basics
 
-Learn the basics of fighting robots, including wiring, necessary components, and radio control.
+Learn the basics of fighting robots, including wiring, necessary components, and radio control. **Recommended for people new to building fighting robots.**
 
 - [Combat Robotics Tutorial](https://www.instructables.com/id/Combat-Robotics-Tutorial/) — An instructable covering weight classes, different robot and weapon types, and designing a combat robot by Titan Tech Robotics.
 - [Combat Robot Electronics for Begineers](https://www.youtube.com/watch?v=WiJyD3viOOs) — Alta's guide on the basics of fighting robot electronics in antweights and beetleweights.
@@ -199,6 +228,7 @@ Stores and suppliers where you can buy the necessary components and tools for bu
 
 - [Fingertech Robotics](https://www.fingertechrobotics.com/) — Canadian antweight and beetleweight components store.
 - [Equals Zero Designs](http://e0designs.com/) — U.S. components supplier, including the famous Ragebridge series of Speed Controllers.
+- [The Robot Marketplace](http://www.robotmarketplace.com/) — U.S. hobby and components store.
 
 ### U.K. Suppliers
 
@@ -206,6 +236,10 @@ Stores and suppliers where you can buy the necessary components and tools for bu
 - [Ranglebox](https://ranglebox.com/) — Featherweight and beetleweight components supplier.
 - [Technobots](https://technobotsonline.com) — U.K. robotics and components store.
 - [Drizzlebots](https://drizzlebots.co.uk/) — Antweight and beetleweights components supplier.
+
+### Brazil Suppliers
+
+- [RoboCore](https://www.robocore.net/) — Brazilian robot and electronic components store.
 
 ## Contribute
 
