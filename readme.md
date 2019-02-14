@@ -116,7 +116,7 @@ Links to various robot combat media, including podcasts and streaming channels.
 
 ### Podcasts
 
-- [Inside The Bot](https://soundcloud.com/insidethebot) — A robot combat podcast hosted by Gabriel Stroud and Will Cedric.
+- [Inside The Bot](https://soundcloud.com/insidethebot) — A robot combat podcast hosted by Gabriel Stroud and Will Sedgwick.
 - [Spinnerproof](https://www.spinnerproof.com/) — A podcast about combat robotics by Ryan Bratley and Sam Hutchins.
 - [Activate! The Robot Wars Podcast](https://soundcloud.com/user-899755637) — A retrospective review podcast of Robot Wars by Rob E. Harmlessly and Benji.
 
