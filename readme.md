@@ -17,6 +17,8 @@
 - [Robot Combat Media](#robot-combat-media)
   - [Podcasts](#podcasts)
   - [YouTube Channels](#youtube-channels)
+    -[Events](#events)
+    -[Teams and Builders](#teams-and-builders)
 - [Resources](#resources)
   - [Learning and Building](learning-and-building)
     - [Robot Combat Basics](#robot-combat-basics)
@@ -28,8 +30,10 @@
     - [Hacks and Tips](#hacks-and-tips)
   - [Templates and Designs](#templates-and-designs)
   - [Software](#software)
+    - [Computer Aided Drawing (CAD) Software](#computer-aided-drawing-cad-software)
     - [Radio Control Programming](#radio-control-programming)
     - [ESC Programming and Flashing](#esc-programming-and-flashing)
+    - [3D Printer Slicing Software](#3d-printer-slicing-software)
 - [Parts Suppliers](#parts-suppliers)
   - [General and Hobby Stores](#general-and-hobby-stores)
   - [U.S and Canada Suppliers](#us-and-canada-suppliers)
@@ -242,7 +246,14 @@ Ready-made designs and components you can download to help understand, learn, an
 
 ### Software
 
-Resources for necessary software to program robot components and electronics.
+Resources for necessary software to program, build, and design robot components and electronics.
+
+#### Computer Aided Drawing (CAD) Software
+
+Applications for designing in 3 dimensions. Can be used to make components and entire robots.
+
+- [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/personal) — 3D CAD Software which includes features for sculpting, modelling, machining, and more. Can be used for free with a personal license.
+- [OnShape](https://www.onshape.com) — Browser-based 3D CAD Software that can be used for free with personal projects.
 
 #### Radio Control Software
 
@@ -259,6 +270,13 @@ Applications that can be used to program Speed Controllers, using different soft
 
 - [RapidFlash](https://chrome.google.com/webstore/detail/rapidflash/gehadojofkekobiohnefkabgimeniglh?hl=en) — A Google Chrome App for flashing and programming ESCs using SimonK Firmware.
 - [BLHeli](https://github.com/bitdump/BLHeli) — Software for programming ESCs using BLHeli software. Includes releases for working with BLHeli_32 and BLHeli_S.
+
+#### 3D Printer Slicing Software
+
+Applications to prepare 3D objects to be printed by FDM printers. Can be used to print robot components.
+
+- [Prusa Slicer](https://www.prusa3d.com/en/page/prusaslicer_424/) — 3D Slicing Software, for use with Prusa 3D Printers and other FDM Printers.
+- [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/) — 3D Slicing Software for FDM printers, with plentiful features and plugins/extensions.
 
 ## Parts Suppliers
 
