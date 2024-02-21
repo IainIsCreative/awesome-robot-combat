@@ -173,6 +173,7 @@ Learn the basics of fighting robots, including wiring, necessary components, and
 - [Combat Robot Electronics for Beginners](https://www.youtube.com/watch?v=WiJyD3viOOs) — Alta's guide on the basics of fighting robot electronics in antweights and beetleweights.
 - [How To Build A Robot](https://www.youtube.com/watch?v=AJVKOHPe9tw) — A video tutorial on the concepts of building a fighting robot by Lisa Winter.
 - [How To Build A Robot Weapon System](https://www.youtube.com/watch?v=C6UMenU6aZE) — A video tutorial on how to make a robot weapon's system by Lisa Winter.
+- [How To Use Fusion 360 to Design Combat Robot](https://www.youtube.com/watch?v=Fs_T8mkXci4&list=PLXkHHPy7o3nns1KRFuE4D3pEaSU-aPLnX) — A video series by David Small showing how to use Fusion 360 to build a fighting robot.
 
 #### Building Fighting Robots
 
@@ -200,6 +201,7 @@ The smallest weight category, at 150g. Suitable for beginners in robot combat.
 - [Robo-Rooter — 3lb Combat Robot](https://www.instructables.com/id/Robo-Rooter-3lb-Combat-Robot/) — An overview of the build process for Robo-Rooter, a beetleweight horizontal spinner by Alex Horne.
 - [Unskinny Bot: 3-lb Horizontal Spinner Combat Bot](https://www.instructables.com/id/Unskinny-Bot-3-lb-Horizontal-Spinner-Combat-Bot/) — A beetleweight bar spinner's build process by lewisb42.
 - [High Steaks Deep Dive](https://nearchaos.net/2023/12/high-steaks-deep-dive/) — An in-depth look into High Steaks' build process by Near Chaos Robotics.
+- [Kelpie - The World's Smallest Full Pressure CO2 Flipper](https://www.youtube.com/watch?v=WriWPJdu7MQ) — An overview of David Small's Pneumatically-powered flipper Beetleweight, Kelpie.
 
 #### Hobbyweights
 
@@ -296,8 +298,6 @@ Stores and suppliers where you can buy the necessary components and tools for bu
 - [Repeat Robotics](https://repeat-robotics.com/shop/) — Repeat Robotics store, selling kits and parts, including the Peter Bar Kit.
 - [Itgresa](https://itgresa.com) — Robot Combat parts and kits store. Sells the Black Frost kit.
 - [Absolute Chaos](https://absolutechaosrobotics.bigcartel.com) — Seller of beetle parts and the Jolt! kit.
--
-
 
 ### U.K. Suppliers
 
