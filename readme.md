@@ -2,10 +2,6 @@
 
 > A list of resources and inspiration for people building fighting robots. Here you will find links to tutorials, videos, parts suppliers, communities and other links that are useful for building fighting robots.
 
-<a href="https://www.patreon.com/IainIsCreative">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
 ## Contents
 
 - [Events and Shows](#events-and-shows)
@@ -115,8 +111,6 @@ Showcases and build diaries of robots, as well as fighting robots to be inspired
 Links to various robot combat media, including podcasts and streaming channels.
 
 ### Podcasts
-
-- [Inside The Bot](https://soundcloud.com/insidethebot) — A robot combat podcast hosted by Gabriel Stroud and Will Cedric.
 - [Spinnerproof](https://www.spinnerproof.com/) — A podcast about combat robotics by Ryan Bratley and Sam Hutchins.
 - [Activate! The Robot Wars Podcast](https://soundcloud.com/user-899755637) — A retrospective review podcast of Robot Wars by Rob E. Harmlessly and Benji.
 
@@ -227,7 +221,6 @@ Stores and suppliers where you can buy the necessary components and tools for bu
 ### U.S. and Canada Suppliers
 
 - [Fingertech Robotics](https://www.fingertechrobotics.com/) — Canadian antweight and beetleweight components store.
-- [Equals Zero Designs](http://e0designs.com/) — U.S. components supplier, including the famous Ragebridge series of Speed Controllers.
 - [The Robot Marketplace](http://www.robotmarketplace.com/) — U.S. hobby and components store.
 
 ### U.K. Suppliers
