@@ -2,16 +2,11 @@
 
 > A list of resources and inspiration for people building fighting robots. Here you will find links to tutorials, videos, parts suppliers, communities and other links that are useful for building fighting robots.
 
-<a href="https://www.patreon.com/IainIsCreative">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
 ## Contents
 
 - [Events and Shows](#events-and-shows)
   - [U.S. and Canada Events](#us-and-canada-events)
   - [U.K. Events](#uk-events)
-  - [China Events](#china-events)
   - [Brazil Events](#brazil-events)
   - [Australia Events](#australia-events)
 - [Communities](#communities)
@@ -47,20 +42,16 @@ Events that you can take part in and TV shows that showcase robot combat, based 
 
 ### U.S. and Canada Events
 - [Battlebots](https://battlebots.com) — The popular U.S. robot combat TV show.
-- [Sparkfun AVC](https://avc.sparkfun.com/) — Sparkfun's annual Autonomous Vehicle Convention featuring robot combat tournaments of multiple weight categories.
+- [National Havoc Robot League](https://nhrl.io) — NHRL, the biggest robot fighting league in the world. 
+- [MRCA](https://midwestrobotcombat.com) — Midwest Robot Combat, serving events in Minnesota, Michigan, Illinois, and more in the United States Midwest.
+- [GSCRL](https://gscrl.org) — Garden State Combat Robotics League, based in New Jersey.
 - [Motorama](https://www.motoramaevents.com/robots) — Robot Combat tournaments of various weight categories at the U.S. motor sports event, Motorama.
-- [SCRC Kilobots](https://kilobots.com) — The Saskatoon Combat Robotics Club's Kilobots event, robot combat events featuring robots from 150g to 3lbs.
 
 ### U.K. Events
-- [Robot Wars](https://robotwars.tv) — The premier U.K. robot combat TV show.
 - [Robots Live!](http://www.robotslive.co.uk/) — U.K. robot combat live event showcasing heavyweights and featherweights.
-- [Bugglebots](https://www.bugglebots.com/) — An online video beetleweight tournament series.
 - [Robodojo](https://www.facebook.com/pg/RobodojoUK/) — A robot combat event and club in the north of England.
 - [Bristol Bot Builders](https://bristolbotbuilders.com/) — A robot combat event organisation in Bristol, England.
 - [Extreme Robots](http://www.extremerobots.co.uk) — U.K. robot combat live event featuring heavyweights and featherweights, including heavyweight spinners.
-
-### China Events
-- [King Of Bots](https://www.facebook.com/KOBCHINA/) — The first Chinese robot combat TV show with fighting combatants from around the world.
 
 ### Brazil Events
 
@@ -74,20 +65,30 @@ Events that you can take part in and TV shows that showcase robot combat, based 
 
 A number of communities and groups for people to participate in and learn from.
 
-- [Fighting Robots Association (FRA)](http://www.fightingrobots.co.uk/) — The U.K.'s governing body of robot combat, and a forum board for robot combatants.
+### Discord Servers
+
+- [Out Of The Arena Discord](https://discord.me/outofthearena) — A Discord server dedicated to robot combat discussion, including voice chat and help for building robots.
+- [NHRL Discord](https://discord.gg/nhrl) — The NHRL's community Discord server. Includes channels for events, build tips, advice and more.
+- [GSCRL Discord](https://discord.gg/qwkeeVWgs2) — The Garden State Combat Robotics League Discord Server.
+- [Robodojo Discord](https://discord.gg/XXPTdpZyu5) — Discord server for Robodojo events.
+
+### Facebook Groups
+
 - [Combat Robotics](https://www.facebook.com/groups/RobotCombat/) — A Facebook Group consisting of robot combat participants and enthusiasts from all around the world.
-- [Unofficial Robot Wars](https://www.facebook.com/groups/UnofficialRobotWars/) — The Unofficial Robot Wars Facebook group, consisting of robot combatants from around the world.
 - [Beetleweight Robot Combat Discussion](https://www.facebook.com/groups/1463505713957474/) — A Facebook group consisting of Beetleweight showcases and discussion.
 - [Antweight Robot Combat](https://www.facebook.com/groups/167931026734910/) — A Facebook group dedicated to discussion and showcasing of Antweights.
-- [Out Of The Arena Discord](https://discord.me/outofthearena) — A Discord server dedicated to robot combat discussion, including voice chat and help for building robots.
+- [Unofficial Robot Wars](https://www.facebook.com/groups/UnofficialRobotWars/) — The Unofficial Robot Wars Facebook group, consisting of robot combatants from around the world.
 - [SCRC Kilobots Facebook Group](https://www.facebook.com/groups/Kilobots/) — The Facebook Group for the SCRC, based in Saskatoon.
-- [Sparc Tools Forum](http://sparc.tools/forum/index.php) — The Sparc Tools forum boards, part of the [Standardised Procedures for the Advancement of Robot Combat (SPARC)](http://sparc.tools/).
 - [Bristol Bot Builders Facebook Group](https://www.facebook.com/groups/BristolBotBuilders/) — The Bristol Bot Builders Facebook group based in Bristol, England.
-- [Robot Wars 101](http://www.robotwars101.org/) — A hub for robot combat, with information for building antweights and a forum board for discussing fighting robots.
 - [Arizona Robot Combat](https://www.facebook.com/groups/ArizonaRoboticCombat/) — A Facebook Group for robot combtatants and organisers in the state of Arizona.
 - [Michigan Combat Robotics](https://www.facebook.com/groups/1776490859290067/) — A Facebook Group for robot builders in the state of Michigan.
-- [Adelaide Robot Combat](https://www.facebook.com/groups/AdelaideRobotCombat/) — Robot Combat community and meetups in Adelaide, Australia
+- [Adelaide Robot Combat](https://www.facebook.com/groups/AdelaideRobotCombat/) — Robot Combat community and meetups in Adelaide, Australia.
 
+### Forum Boards
+- [Fighting Robots Association (FRA)](http://www.fightingrobots.co.uk/) — The U.K.'s governing body of robot combat, and a forum board for robot combatants.
+- [Robot Wars 101](http://www.robotwars101.org/) — A hub for robot combat, with information for building antweights and a forum board for discussing fighting robots.
+- [Bristol Bot Builders Forums](https://forum.bristolbotbuilders.com) — The official Bristol Bot Builders forum boards.
+- [RoboWars Forums](https://www.robowars.org/forum/) — Forum board for the RoboWars in Australia.
 
 ## Books
 
@@ -95,6 +96,7 @@ Recommended books for learning about and how to build fighting robots.
 
 - [Riobotz Combat Robot Tutorial](https://www.amazon.com/RioBotz-Combat-Tutorial-Antonio-Meggiolaro/dp/1448697050/ref=sr_1_1?ie=UTF8&qid=1549213075&sr=8-1&keywords=riobotz) — a robot combat build manual by Team Riobotz. [Also available in PDF format.](https://www.riobotz.com/riobotz-combot-tutorial)
 - [Robot Wars: Build Your Own Robot](https://www.amazon.co.uk/Robot-Wars-Manual-Haynes-Manuals/dp/1785211862/ref=sr_1_6?ie=UTF8&qid=1549213153&sr=8-6&keywords=robot+wars) — A manual by James and Grant Cooper going over robot combat design and build, as well as full lessons on building various fighting robots.
+- [Beetleweight Combat Robot Design Handbook](https://repeat-robotics.com/handbook/) — Beetleweight Design Book writtien by Peter Garnache.
 
 ## Robot Combat Inspiration
 
@@ -115,8 +117,6 @@ Showcases and build diaries of robots, as well as fighting robots to be inspired
 Links to various robot combat media, including podcasts and streaming channels.
 
 ### Podcasts
-
-- [Inside The Bot](https://soundcloud.com/insidethebot) — A robot combat podcast hosted by Gabriel Stroud and Will Sedgwick.
 - [Spinnerproof](https://www.spinnerproof.com/) — A podcast about combat robotics by Ryan Bratley and Sam Hutchins.
 - [Activate! The Robot Wars Podcast](https://soundcloud.com/user-899755637) — A retrospective review podcast of Robot Wars by Rob E. Harmlessly and Benji.
 
@@ -189,7 +189,7 @@ Useful tidbits and pointers you can use when building a fighting robot.
 - [Brushless Beetleweight Drive](http://www.fightingrobots.co.uk/threads/12755-brushless-beetle-drive) — A hack for putting a hobby DC Motor gearbox onto a 1806 Brushless Motor by Rory Mangles.
 - [Quanum Brushless Drive with Planetary Gearbox](https://www.facebook.com/groups/1463505713957474/permalink/1727183304256379/) — A hack to place a 22mm planetary gearbox onto a Quanum BE1806 Brushless Motor by Cosmin Gorgovan.
 - [SimonK Firmware Flashing Tutorial (Brushless Drive)](https://www.youtube.com/watch?v=MQQX7IIdAtI) — Robert Cowan's tutorial on how to flash SimonK firmware to make a Brushless ESC Reversible.
-- [Beetleweight Brushless Drive](https://www.youtube.com/watch?v=TfYZbjtgO0k) — A tutorial on how to mount a 22mm planetary gearbox onto a brushless motor for beetleweight robots by Robert Cowan. 
+- [Beetleweight Brushless Drive](https://www.youtube.com/watch?v=TfYZbjtgO0k) — A tutorial on how to mount a 22mm planetary gearbox onto a brushless motor for beetleweight robots by Robert Cowan.
 
 ### Templates and Designs
 
@@ -207,6 +207,8 @@ Software that can be used to program various radio transmitters over USB.
 
 - [T6Config](http://www.rcyachts.com/KitInfo/T6Confg/T6Config.htm) — Radio Control software on PC for programming T6A Radio Transmitters.
 - [Turborix](http://www.zenoshrdlu.com/turborix/) — Radio Control programming on macOS for T6A Radio Transmitters.
+- [OpenTX](https://www.open-tx.org) — Software for programming transmitters utilising OpenTX software, including FrSky Transmitters.
+
 
 #### ESC Programming and Flashing
 
@@ -227,15 +229,20 @@ Stores and suppliers where you can buy the necessary components and tools for bu
 ### U.S. and Canada Suppliers
 
 - [Fingertech Robotics](https://www.fingertechrobotics.com/) — Canadian antweight and beetleweight components store.
-- [Equals Zero Designs](http://e0designs.com/) — U.S. components supplier, including the famous Ragebridge series of Speed Controllers.
 - [The Robot Marketplace](http://www.robotmarketplace.com/) — U.S. hobby and components store.
+- [Just Cuz Robotics](https://justcuzrobotics.com/collections/all) — Parts and Kits store, including the SSP Kit.
+- [Repeat Robotics](https://repeat-robotics.com/shop/) — Repeat Robotics store, selling kits and parts, including the Peter Bar Kit.
+- [Itgresa](https://itgresa.com) — Robot Combat parts and kits store. Sells the Black Frost kit.
+- [Absolute Chaos](https://absolutechaosrobotics.bigcartel.com) — Seller of beetle parts and the Jolt! kit.
+
 
 ### U.K. Suppliers
 
 - [Nuts and Bots](https://nutsandbots.co.uk) — Team Nuts' antweight robots and components store.
 - [Ranglebox](https://ranglebox.com/) — Featherweight and beetleweight components supplier.
 - [Technobots](https://technobotsonline.com) — U.K. robotics and components store.
-- [Drizzlebots](https://drizzlebots.co.uk/) — Antweight and beetleweights components supplier.
+- [Monsoon Robotics](https://monsoonrobotics.co.uk) — Antweight and beetleweights components from Team Monsoon.
+- [Bristol Bot Builders Store](https://shop.bristolbotbuilders.com) — BBB Store that supplies parts for 150g Antweights, Beetleweights, and Featherweights.
 
 ### Brazil Suppliers
 
@@ -249,7 +256,7 @@ If you want to add to this list, contributions are welcome! Please read the [con
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Iain <@IainIsCreative> has waived all copyright and
+To the extent possible under law, Iain <@iainiscreative> has waived all copyright and
 related or neighboring rights to this work.
 
 ## Did you like this list?
