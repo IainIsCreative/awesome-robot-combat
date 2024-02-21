@@ -70,6 +70,7 @@ A number of communities and groups for people to participate in and learn from.
 - [Out Of The Arena Discord](https://discord.me/outofthearena) — A Discord server dedicated to robot combat discussion, including voice chat and help for building robots.
 - [NHRL Discord](https://discord.gg/nhrl) — The NHRL's community Discord server. Includes channels for events, build tips, advice and more.
 - [GSCRL Discord](https://discord.gg/qwkeeVWgs2) — The Garden State Combat Robotics League Discord Server.
+- [Robodojo Discord](https://discord.gg/XXPTdpZyu5) — Discord server for Robodojo events.
 
 ### Facebook Groups
 
@@ -95,7 +96,7 @@ Recommended books for learning about and how to build fighting robots.
 
 - [Riobotz Combat Robot Tutorial](https://www.amazon.com/RioBotz-Combat-Tutorial-Antonio-Meggiolaro/dp/1448697050/ref=sr_1_1?ie=UTF8&qid=1549213075&sr=8-1&keywords=riobotz) — a robot combat build manual by Team Riobotz. [Also available in PDF format.](https://www.riobotz.com/riobotz-combot-tutorial)
 - [Robot Wars: Build Your Own Robot](https://www.amazon.co.uk/Robot-Wars-Manual-Haynes-Manuals/dp/1785211862/ref=sr_1_6?ie=UTF8&qid=1549213153&sr=8-6&keywords=robot+wars) — A manual by James and Grant Cooper going over robot combat design and build, as well as full lessons on building various fighting robots.
--
+- [Beetleweight Combat Robot Design Handbook](https://repeat-robotics.com/handbook/) — Beetleweight Design Book writtien by Peter Garnache.
 
 ## Robot Combat Inspiration
 
