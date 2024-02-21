@@ -241,7 +241,7 @@ Stores and suppliers where you can buy the necessary components and tools for bu
 - [Nuts and Bots](https://nutsandbots.co.uk) — Team Nuts' antweight robots and components store.
 - [Ranglebox](https://ranglebox.com/) — Featherweight and beetleweight components supplier.
 - [Technobots](https://technobotsonline.com) — U.K. robotics and components store.
-- [Drizzlebots](https://drizzlebots.co.uk/) — Antweight and beetleweights components supplier.
+- [Monsoon Robotics](https://monsoonrobotics.co.uk) — Antweight and beetleweights components from Team Monsoon.
 - [Bristol Bot Builders Store](https://shop.bristolbotbuilders.com) — BBB Store that supplies parts for 150g Antweights, Beetleweights, and Featherweights.
 
 ### Brazil Suppliers
