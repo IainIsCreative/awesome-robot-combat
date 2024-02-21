@@ -90,6 +90,7 @@ A number of communities and groups for people to participate in and learn from.
 - [Adelaide Robot Combat](https://www.facebook.com/groups/AdelaideRobotCombat/) — Robot Combat community and meetups in Adelaide, Australia.
 
 ### Forum Boards
+
 - [Fighting Robots Association (FRA)](http://www.fightingrobots.co.uk/) — The U.K.'s governing body of robot combat, and a forum board for robot combatants.
 - [Robot Wars 101](http://www.robotwars101.org/) — A hub for robot combat, with information for building antweights and a forum board for discussing fighting robots.
 - [Bristol Bot Builders Forums](https://forum.bristolbotbuilders.com) — The official Bristol Bot Builders forum boards.
@@ -125,6 +126,8 @@ Showcases and build diaries of robots, as well as fighting robots to be inspired
 Links to various robot combat media, including podcasts and streaming channels.
 
 ### Podcasts
+- [Behind The Bots](https://open.spotify.com/show/6bx2hceQKnBFldWqcVtJQK) — A robot combat podcast by Luke Stangel, Kyle Crose, Chris DeCicco and Lindsay Baer.
+- [The Havoc Rundown](https://open.spotify.com/show/2OEPCloWsCpUqIzK4NjjLA) — Unofficial NHRL Podcast with competitors and people within NHRL.
 - [Spinnerproof](https://www.spinnerproof.com/) — A podcast about combat robotics by Ryan Bratley and Sam Hutchins.
 - [Activate! The Robot Wars Podcast](https://soundcloud.com/user-899755637) — A retrospective review podcast of Robot Wars by Rob E. Harmlessly and Benji.
 
@@ -163,7 +166,7 @@ Useful resources to learn the basics of robot combat, as well as tutorials on bu
 Learn the basics of fighting robots, including wiring, necessary components, and radio control. **Recommended for people new to building fighting robots.**
 
 - [Combat Robotics Tutorial](https://www.instructables.com/id/Combat-Robotics-Tutorial/) — An instructable covering weight classes, different robot and weapon types, and designing a combat robot by Titan Tech Robotics.
-- [Combat Robot Electronics for Begineers](https://www.youtube.com/watch?v=WiJyD3viOOs) — Alta's guide on the basics of fighting robot electronics in antweights and beetleweights.
+- [Combat Robot Electronics for Beginners](https://www.youtube.com/watch?v=WiJyD3viOOs) — Alta's guide on the basics of fighting robot electronics in antweights and beetleweights.
 - [How To Build A Robot](https://www.youtube.com/watch?v=AJVKOHPe9tw) — A video tutorial on the concepts of building a fighting robot by Lisa Winter.
 - [How To Build A Robot Weapon System](https://www.youtube.com/watch?v=C6UMenU6aZE) — A video tutorial on how to make a robot weapon's system by Lisa Winter.
 
@@ -183,6 +186,7 @@ The smallest weight category, at 150g. Suitable for beginners in robot combat.
 
 - [One Pound Fighting Robot, Algos](https://www.instructables.com/id/One-Pound-Fighting-Robot-Algos/) — An instructable going over the build of his U.S. antweight spinner, Algos.
 - [Sgt. Cuddles Antweight Combat Robot Build](https://www.youtube.com/watch?v=86EJ05kBksA&list=PL0zMZkIMIyC9SBFDc8SqcasGF3EYRpPWB) — The process of building Sgt. Cuddles, a 1lb antweight drum spinner by Robert Cowan.
+- [Outlier](https://nearchaos.net/2023/09/outlier-deep-dive/) — An in-depth look into the build of Outlier, a modular robot by Near Chaos Robotics.
 
 ##### Beetleweights
 
@@ -191,6 +195,7 @@ The smallest weight category, at 150g. Suitable for beginners in robot combat.
 - [Naked Singularity: Beetleweight Wedge Combat Robot](https://www.instructables.com/id/Naked-Singularity-Beetleweight-Wedge-Combat-Robot/) — An instructable covering the build process of Naked Singularity, a beetleweight wedge by lewisb42
 - [Robo-Rooter — 3lb Combat Robot](https://www.instructables.com/id/Robo-Rooter-3lb-Combat-Robot/) — An overview of the build process for Robo-Rooter, a beetleweight horizontal spinner by Alex Horne.
 - [Unskinny Bot: 3-lb Horizontal Spinner Combat Bot](https://www.instructables.com/id/Unskinny-Bot-3-lb-Horizontal-Spinner-Combat-Bot/) — A beetleweight bar spinner's build process by lewisb42.
+- [High Steaks Deep Dive](https://nearchaos.net/2023/12/high-steaks-deep-dive/) — An in-depth look into High Steaks' build process by Near Chaos Robotics.
 
 #### Hobbyweights
 
