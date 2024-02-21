@@ -16,6 +16,7 @@
   - [Build Diaries](#build-diaries)
 - [Robot Combat Media](#robot-combat-media)
   - [Podcasts](#podcasts)
+  - [YouTube Channels](#youtube-channels)
 - [Resources](#resources)
   - [Learning and Building](learning-and-building)
     - [Robot Combat Basics](#robot-combat-basics)
@@ -44,6 +45,7 @@ Events that you can take part in and TV shows that showcase robot combat, based 
 ### U.S. and Canada Events
 - [Battlebots](https://battlebots.com) — The popular U.S. robot combat TV show.
 - [National Havoc Robot League](https://nhrl.io) — NHRL, the biggest robot fighting league in the world. 
+- [RoboGames](https://robogames.net/index.php) — Formerly RoboLympics, RoboGames is one of the largest robot fighting events in the world.
 - [MRCA](https://midwestrobotcombat.com) — Midwest Robot Combat, serving events in Minnesota, Michigan, Illinois, and more in the United States Midwest.
 - [GSCRL](https://gscrl.org) — Garden State Combat Robotics League, based in New Jersey.
 - [Motorama](https://www.motoramaevents.com/robots) — Robot Combat tournaments of various weight categories at the U.S. motor sports event, Motorama.
@@ -126,6 +128,26 @@ Links to various robot combat media, including podcasts and streaming channels.
 - [Spinnerproof](https://www.spinnerproof.com/) — A podcast about combat robotics by Ryan Bratley and Sam Hutchins.
 - [Activate! The Robot Wars Podcast](https://soundcloud.com/user-899755637) — A retrospective review podcast of Robot Wars by Rob E. Harmlessly and Benji.
 
+### YouTube Channels
+
+#### Events
+
+- [NHRL](https://www.youtube.com/@NHRL) — National Havoc Robot League's YouTube channel, including highlights, shorts, and prime-time live event content.
+- [NHRL Brettzone](https://www.youtube.com/@NHRL-BrettZone) — NHRL's second channel for live event content, broadcasting constant fights on event day.
+- [GSCRL](https://www.youtube.com/@gscrl) — Garden State Combat Robot League YouTube Channel, broadcasts events live.
+
+#### Teams and Builders
+
+- [Just 'Cuz Robotics](https://www.youtube.com/@JustCuzRobotics) — YouTube Channel of Seth Schaffer, builder of Division and SSP. Contains a lot of tutorials and coverage.
+- [Robert Cowan DIY](https://www.youtube.com/@RobertCowanDIY) — Robert Cowan's Channel for tips, tutorials, builds and coverage.
+- [Team Get Wrecked](https://www.youtube.com/@teamgetwreckedcombatrobots776) — Kekoto Maane's YouTube Channel showcasing his combat robots.
+- [Jake Hoffman](https://www.youtube.com/@jakemaximizer) — Youtube Channel of Jake Hoffman, builder of Maximizer.
+- [Sleepy Anime Girl Club](https://www.youtube.com/@sleepyanimegirlclub) — Youtube Channel of Sleepy Anime Girl Club, the team behind Chainsaw Kitty.
+- [Team Panic](https://www.youtube.com/@TeamPanicRobotics) — Official YouTube Channel of Team Panic.
+- [Skorpios](https://www.youtube.com/@SkorpiosBattlebot) — Official YouTube Channel of Team Skorpios.
+- [Kinekitsu](https://www.youtube.com/@Kinekitsu) — Youtube Channel of Kinekitsu, builder of GAME_OVER and GAME_ON.
+- [Broken Link Robotics](https://www.youtube.com/@BrokenLinkRobotics) — Channel for Australian team, Broken Link Robotics.
+
 ## Resources
 
 Links for learning the basics of robot combat, how to build fighting robots, as well as tools and designs people can use to build their own. **Note: some links may require joining a group or community to view the link.**
@@ -194,12 +216,24 @@ Useful tidbits and pointers you can use when building a fighting robot.
 - [Quanum Brushless Drive with Planetary Gearbox](https://www.facebook.com/groups/1463505713957474/permalink/1727183304256379/) — A hack to place a 22mm planetary gearbox onto a Quanum BE1806 Brushless Motor by Cosmin Gorgovan.
 - [SimonK Firmware Flashing Tutorial (Brushless Drive)](https://www.youtube.com/watch?v=MQQX7IIdAtI) — Robert Cowan's tutorial on how to flash SimonK firmware to make a Brushless ESC Reversible.
 - [Beetleweight Brushless Drive](https://www.youtube.com/watch?v=TfYZbjtgO0k) — A tutorial on how to mount a 22mm planetary gearbox onto a brushless motor for beetleweight robots by Robert Cowan.
+- [Removable Links: How to prevent the worst kind of loss from happening to you!](https://forum.bristolbotbuilders.com/t/removable-links-how-to-prevent-the-worst-kind-of-loss-from-happening-to-you/229/2) — A handy guide on making a removeable link secure in a robot by Eoin Ó Cionna.
 
 ### Templates and Designs
 
-Ready-made designs and components you can download to use for building a fighting robot.
+Ready-made designs and components you can download to help understand, learn, and build a fighting robot.
+
+#### Robots
 
 - [Saw Loser](https://gitlab.com/alexmordue/saw-loser) — An open source design, with drawings and design files for Alex Mordue's beetleweight robot, Saw Loser.
+- [Chronus Mk2](https://grabcad.com/library/chronus-mk2-hobbyweight-combat-robot-1) — CAD files for Julien Mott's Hobbyweight class vert, Chronus Mk2.
+- [Combat Robot Collection - 150g to 13.6kg](https://grabcad.com/library/combat-robot-collection-150g-to-13-6kg-1) — James Kirby's CAD collection of various robot designs, in multiple weight classes.
+- [Beetleweight Battlebot - 4wheel drive egg beater](https://grabcad.com/library/beetleweight-battlebot-4wheel-drive-egg-beater-1) — A 4WD Beetleweight Hubmotor-driven beater design by Gabriel Bertozzi.
+
+#### Components and Parts
+- [AR600 Knuckles with Fingertech Beater Bar](https://grabcad.com/library/ar600-knuckles-w-fingertech-beater-bar-read-desc-1) — CAD files for a Fingertech Beater Bar with custom teeth by Eshan Amin.
+- [SSP Combat Robot Kit Wheels, Front and Rear](https://grabcad.com/library/ssp-combat-robot-kit-wheels-front-and-rear-1) — Files of the SSP Kit's wheels by Just 'Cuz Robotics.
+- [Motherboard V2.2](https://grabcad.com/library/motherboard-combat-robotics-mainboard-v2-2-by-just-cuz-robotics-1) — CAD and documents on Just 'Cuz Robotics' Motherboard.
+- [RDY-5536 Battle Ready Combat Robotics Hubmotor](https://grabcad.com/library/rdy-5536-battle-ready-combat-robotics-hubmotor-just-cuz-robotics-1) — CAD Files on the Hubmotor Design by Just 'Cuz Robotics.
 
 ### Software
 
@@ -219,6 +253,7 @@ Software that can be used to program various radio transmitters over USB.
 Applications that can be used to program Speed Controllers, using different software configurations, over USB.
 
 - [RapidFlash](https://chrome.google.com/webstore/detail/rapidflash/gehadojofkekobiohnefkabgimeniglh?hl=en) — A Google Chrome App for flashing and programming ESCs using SimonK Firmware.
+- [BLHeli](https://github.com/bitdump/BLHeli) — Software for programming ESCs using BLHeli software. Includes releases for working with BLHeli_32 and BLHeli_S.
 
 ## Parts Suppliers
 
@@ -234,10 +269,11 @@ Stores and suppliers where you can buy the necessary components and tools for bu
 
 - [Fingertech Robotics](https://www.fingertechrobotics.com/) — Canadian antweight and beetleweight components store.
 - [The Robot Marketplace](http://www.robotmarketplace.com/) — U.S. hobby and components store.
-- [Just Cuz Robotics](https://justcuzrobotics.com/collections/all) — Parts and Kits store, including the SSP Kit.
+- [Just 'Cuz Robotics](https://justcuzrobotics.com/collections/all) — Parts and Kits store, including the SSP Kit.
 - [Repeat Robotics](https://repeat-robotics.com/shop/) — Repeat Robotics store, selling kits and parts, including the Peter Bar Kit.
 - [Itgresa](https://itgresa.com) — Robot Combat parts and kits store. Sells the Black Frost kit.
 - [Absolute Chaos](https://absolutechaosrobotics.bigcartel.com) — Seller of beetle parts and the Jolt! kit.
+-
 
 
 ### U.K. Suppliers
