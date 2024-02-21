@@ -24,7 +24,6 @@
       - [U.S. Antweights](#us-antweights)
       - [Hobbyweights](#hobbyweights)
       - [Featherweights](#featherweights)
-      - [Heavyweights](#heavyweights)
     - [Hacks and Tips](#hacks-and-tips)
   - [Templates and Designs](#templates-and-designs)
   - [Software](#software)
@@ -39,6 +38,8 @@
 ## Events and Shows
 
 Events that you can take part in and TV shows that showcase robot combat, based on region.
+
+---
 
 ### U.S. and Canada Events
 - [Battlebots](https://battlebots.com) — The popular U.S. robot combat TV show.
@@ -64,6 +65,8 @@ Events that you can take part in and TV shows that showcase robot combat, based 
 ## Communities and Organisations
 
 A number of communities and groups for people to participate in and learn from.
+
+---
 
 ### Discord Servers
 
@@ -102,6 +105,8 @@ Recommended books for learning about and how to build fighting robots.
 
 Showcases and build diaries of robots, as well as fighting robots to be inspired by.
 
+---
+
 ### Blog Posts
 
 - [Shrapnelly — 1lb Combat Robot](https://eleccelerator.com/shrapnelly-antweight-combat-robot/) — A blog post covering Frank Zhao's antweight drum spinner, Shrapnelly.
@@ -113,6 +118,7 @@ Showcases and build diaries of robots, as well as fighting robots to be inspired
 - [Inside a Bugglebot — FLICK Build Diary/Battle Report](https://www.youtube.com/watch?v=vQsG1u2L9Ro) — A build diary covering the design and process of Flick, a beetleweight drum spinner by Tom Lloyd.
 
 ## Robot Combat Media
+---
 
 Links to various robot combat media, including podcasts and streaming channels.
 
@@ -123,6 +129,8 @@ Links to various robot combat media, including podcasts and streaming channels.
 ## Resources
 
 Links for learning the basics of robot combat, how to build fighting robots, as well as tools and designs people can use to build their own. **Note: some links may require joining a group or community to view the link.**
+
+---
 
 ### Learning and Building
 
@@ -176,10 +184,6 @@ A step up from beetleweights and below the featherweights, hobbyweights are the 
 - [30lb Fighting Robot — Nyx](https://www.instructables.com/id/30lb-Fighting-Robot/) — An instructable covering the build process of Nyx, a featherweight combat robot by Mike Jeffries.
 - [Phoenix — 30lb Combat Robot](https://www.instructables.com/id/Phoenix-30-lb-Combat-Robot/) — An overview of the build for the pneumatically-powered featherweight Phoenix by Alex Horne.
 - [Crippling Depression](https://www.youtube.com/watch?v=FR0XBRxbn1A&list=PL0zMZkIMIyC-x5w-RsjeS2NQC4jmUVkYP) — A video playlist of the design, build, and outcome of Robert Cowan's featherweight robot, Crippling Depression.
-
-##### Heavyweights
-
-The heaviest weight class, at 110kg in the U.K. and 250lbs in the U.S.
 
 #### Hacks and Tips
 
